@@ -4,7 +4,7 @@
 🎓 B.Tech in <b>Electronics & Telecommunication Engineering</b>  
 💻 Exploring <b>Programming & Applied Technology</b>  
 🌐 Passionate about <b>Web Technologies (HTML, CSS, Front-End)</b>  
-✨ Currently learning <b>JavaScript</b>  
+✨ Currently learning <b> Web Development </b>  
 💎 Also exploring <b>C++ & Data Structures & Algorithms (DSA)</b>  
 🌱 <i>Learning new skills & exploring new technologies every single day</i>  
 🤝 Open to <b>collaborative projects & creative opportunities</b>  
