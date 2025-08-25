@@ -1,60 +1,29 @@
-[25/08, 10:00 pm] Rifa Sanzida Zaman: <h1 align="center">✨ Rifa Sanzida Zaman ✨</h1>  
-
-<p align="center">
-🎓 B.Tech in <b>Electronics & Telecommunication Engineering</b> <br>
-💻 Exploring <b>Programming & Applied Technology</b> <br>
-🌐 Passionate about <b>C++ & Data Structures & Algorithms (DSA)</b> <br>
-🤝 Always open to <b>collaborative projects & learning opportunities</b>
-</p>
-
----
-
-### 🚀 About Me  
-🌱 Currently mastering **C++ and DSA**  
-📚 Practicing **problem solving** on coding platforms  
-🔍 Interested in **algorithms, problem-solving, and real-world applications**  
-✨ Believe in *“Code. Learn. Build. Repeat.”*  
-
----
-
-### 🛠️ Tech Stack  
-💠 **Language:** C++  
-💠 **Core:** Data Structures & Algorithms (DSA)  
-💠 **Tools:** Git · GitHub · VS Code  
-
----
-
-### 🌟 Connect With Me  
-<p align="center">
-📧 <a href="mailto:sanzidazamanrifa@gmail.com">Email</a> |  
-🔗 <a href="https://linkedin.com/in/rifasanzidazaman">LinkedIn</a>
-</p>
-
----
-
-<p align="center">⭐️ Crafted with passion for coding & problem-solving ⭐️</p>
-[25/08, 10:02 pm] Rifa Sanzida Zaman: <h1 align="center">✨ Rifa Sanzida Zaman ✨</h1>  
+<h1 align="center">🌸 Rifa Sanzida Zaman 🌸</h1>  
 
 <p align="center">
 🎓 B.Tech in <b>Electronics & Telecommunication Engineering</b>  
 💻 Exploring <b>Programming & Applied Technology</b>  
-🌐 Passionate about <b>Web Technologies – HTML, CSS & Front-End Development</b>  
-🤝 Always open to <b>collaborative projects & learning opportunities</b>  
+🌐 Passionate about <b>Web Technologies (HTML, CSS, Front-End)</b>  
+✨ Currently learning <b>JavaScript</b>  
+💎 Also exploring <b>C++ & Data Structures & Algorithms (DSA)</b>  
+🌱 <i>Learning new skills & exploring new technologies every single day</i>  
+🤝 Open to <b>collaborative projects & creative opportunities</b>  
 </p>
 
 ---
 
-### 🚀 About Me  
-🌱 Currently learning and building with **HTML, CSS, and front-end tools**  
-📚 Interested in **web development & user-friendly design**  
-✨ Believe in *“Code. Learn. Build. Repeat.”*  
+### 🌼 About Me  
+💖 Building a strong foundation in **Web Development & Problem Solving**  
+📚 Interested in **Front-End, DSA, and Real-World Applications**  
+🎨 Love creating **clean, user-friendly designs**  
+🌸 Believe in *“Code. Learn. Build. Repeat.”*  
 
 ---
 
 ### 🛠️ Tech Stack  
-💠 **Languages:** HTML, CSS  
-💠 **Focus:** Front-End Development  
-💠 **Tools:** Git · GitHub · VS Code  
+💖 **Web:** HTML · CSS · JavaScript (Learning)  
+💎 **Core:** C++ · Data Structures & Algorithms (DSA)  
+🛠️ **Tools:** Git · GitHub · VS Code  
 
 ---
 
@@ -63,7 +32,3 @@
 📧 <a href="mailto:sanzidazamanrifa@gmail.com">Email</a> |  
 🔗 <a href="https://linkedin.com/in/rifasanzidazaman">LinkedIn</a>
 </p>
-
----
-
-<p align="center">⭐️ Crafted with passion for web & technology ⭐️</p>
