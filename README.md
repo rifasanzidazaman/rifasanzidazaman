@@ -18,13 +18,13 @@
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-# 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rifasanzidazaman&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+# 📊 GitHub Statistics:
 
-![GitHub Streak](https://nirzak-streak-stats.herokuapp.com/?user=rifasanzidazaman&theme=dark&hide_border=false)  
+## ⭐ GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rifasanzidazaman&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
+## 🔥 GitHub Streak
+![GitHub Streak](https://nirzak-streak-stats.herokuapp.com/?user=rifasanzidazaman&theme=dark&hide_border=false)
+
+## 💡 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rifasanzidazaman&theme=dark&hide_border=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=rifasanzidazaman&icon=0&color=0)](https://visitcount.itsvg.in)
