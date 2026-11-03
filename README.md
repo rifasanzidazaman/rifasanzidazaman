@@ -1,298 +1,239 @@
 
+<!-- ===================== HEADER ===================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Rifa%20Sanzida%20Zaman&fontSize=39&fontColor=8275AD&animation=fadeIn&fontAlignY=37&desc=learning%20%E2%80%A2%20building%20%E2%80%A2%20growing&descAlignY=60&descSize=16&color=0:DCE9FA,50:E8DDF8,100:F4DCEB" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DCE9FA,50:E8DDF8,100:F4DCEB&height=190&section=header&text=Rifa%20Sanzida%20Zaman&fontSize=38&fontColor=8275AD&animation=fadeIn&fontAlignY=35&desc=learning%20%E2%80%A2%20building%20%E2%80%A2%20growing&descSize=16&descAlignY=55" width="100%" />
 
-### Electronics & Telecommunication Undergraduate
-#### Aspiring Software Developer | AI & ML Enthusiast | Data Science Explorer
-
-<p><i>Exploring technology, understanding data, and building intelligent solutions.</i></p>
+<h3>Electronics & Telecommunication Undergraduate | Aspiring Software & Data Professional</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Programming-Python-DCE9FA?style=for-the-badge&logo=python&logoColor=6586B5" />
-  <img src="https://img.shields.io/badge/Programming-Java-E8DDF8?style=for-the-badge&logo=openjdk&logoColor=8275AD" />
-  <img src="https://img.shields.io/badge/Exploring-AI%20%26%20ML-F4DCEB?style=for-the-badge&logo=tensorflow&logoColor=9B668C" />
-  <img src="https://img.shields.io/badge/Exploring-Data%20Science-DDF0E5?style=for-the-badge&logo=pandas&logoColor=649A83" />
+  <img src="https://img.shields.io/badge/Python-Exploring-DCE9FA?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Learning-E8DDF8?style=for-the-badge&logo=tensorflow&logoColor=9B668C" />
+  <img src="https://img.shields.io/badge/Data%20Science-Exploring-F4DCEB?style=for-the-badge&logo=databricks&logoColor=9B668C" />
 </p>
 
-<a href="https://github.com/rifasanzidazaman">
-  <img src="https://komarev.com/ghpvc/?username=rifasanzidazaman&style=flat&color=8275AD&label=PROFILE+VIEWS" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=rifasanzidazaman&label=Profile%20Views&color=E8DDF8&style=flat-square" />
 
 </div>
 
 ---
 
+<!-- ===================== ABOUT ME ===================== -->
+
 ## 🌷 About Me
 
-Hi, I'm **Rifa Sanzida Zaman**, an Electronics & Telecommunication undergraduate at **KIIT University**, India.
+Hi! I'm an Electronics and Telecommunication Engineering undergraduate at **KIIT University**, interested in building a career at the intersection of software development, Artificial Intelligence, and data.
 
-I have a growing interest in software development, Artificial Intelligence, Machine Learning, Data Science, and Data Analytics. I enjoy exploring how programming, algorithms, and data can be used to understand problems and develop practical technology-driven solutions.
-
-My current focus is on strengthening my programming fundamentals, developing analytical thinking, and gaining hands-on experience through projects and experimentation.
-
-I'm particularly interested in the intersection of intelligent systems, data-driven decision-making, and software development.
+I'm curious about how technology works, how data can reveal meaningful insights, and how intelligent systems can solve real-world problems.
 
 - 🎓 Pursuing B.Tech in Electronics & Telecommunication Engineering.
-- 💻 Learning programming, software development, and problem-solving fundamentals.
-- 🐍 Exploring Python for programming, data analysis, and machine learning.
-- ☕ Learning Java and strengthening object-oriented programming concepts.
-- 📊 Exploring Data Science, Data Analytics, and data visualization.
-- 🤖 Developing an understanding of Artificial Intelligence and Machine Learning.
-- 🧠 Interested in Deep Learning, predictive modelling, and intelligent applications.
-- 🗄️ Learning SQL and database management concepts.
-- 🌱 Building practical projects and continuously expanding my technical knowledge.
-- 🤝 Open to technical collaborations, knowledge sharing, and learning opportunities.
+- 💻 Exploring software development and programming.
+- 🤖 Interested in Artificial Intelligence, Machine Learning, and Deep Learning.
+- 📊 Exploring Data Science, Data Analytics, and data-driven decision-making.
+- 🐍 Working with Python and exploring its applications in AI and data.
+- 🧠 Learning through practical projects, experimentation, and continuous improvement.
+- 🌱 Always curious about emerging technologies and new possibilities.
 
 ---
 
 ## 🎓 Education
 
+| Qualification | Institution | Duration |
+|---|---|---|
+| B.Tech – Electronics & Telecommunication Engineering | KIIT University | 2023–2027 |
+
+---
+
+## 🧠 Technical Interests & Learning Areas
+
 <table>
 <tr>
-<td width="30%" align="center" bgcolor="#DCE9FA">
-<h3>2023–2027</h3>
-B.Tech
+<td width="50%" valign="top">
+
+### 🤖 Artificial Intelligence
+- AI fundamentals
+- Intelligent systems
+- Generative AI concepts
+- Real-world AI applications
+- AI-assisted problem solving
+
 </td>
-<td width="70%" bgcolor="#E8DDF8">
-<h3>KIIT University</h3>
-<b>Electronics & Telecommunication Engineering</b>
-<p>Developing an engineering foundation while exploring software technologies, programming, data, and intelligent computing systems.</p>
+<td width="50%" valign="top">
+
+### 🧩 Machine Learning
+- Supervised learning
+- Unsupervised learning
+- Classification and regression
+- Model training and evaluation
+- Feature engineering
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Data Science & Analytics
+- Data cleaning and preprocessing
+- Exploratory Data Analysis
+- Statistical concepts
+- Data visualization
+- Predictive analytics
+- Data-driven insights
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Software Development
+- Programming fundamentals
+- Object-Oriented Programming
+- Data Structures and Algorithms
+- Problem-solving
+- Application development
+- Database fundamentals
+
 </td>
 </tr>
 </table>
 
 ---
 
-## 🌱 Technical Interests & Learning Areas
-
-<table>
-<tr>
-<td width="50%" align="center" bgcolor="#DCE9FA">
-<h3>💻 Software Development</h3>
-<p>Programming Fundamentals · OOP · Data Structures · Algorithms · Problem Solving</p>
-<p><i>Understanding programming concepts and developing efficient, structured solutions.</i></p>
-</td>
-<td width="50%" align="center" bgcolor="#E8DDF8">
-<h3>🤖 Artificial Intelligence</h3>
-<p>AI Fundamentals · Intelligent Systems · AI Applications · Generative AI Concepts</p>
-<p><i>Exploring how intelligent systems can learn, reason, and support real-world applications.</i></p>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" bgcolor="#F4DCEB">
-<h3>🧠 Machine Learning & Deep Learning</h3>
-<p>Supervised Learning · Unsupervised Learning · Classification · Regression · Neural Networks · CNN</p>
-<p><i>Exploring model development, pattern recognition, and predictive techniques.</i></p>
-</td>
-<td width="50%" align="center" bgcolor="#DDF0E5">
-<h3>📊 Data Science & Analytics</h3>
-<p>Data Cleaning · EDA · Statistical Analysis · Feature Engineering · Data Visualization · Predictive Analytics</p>
-<p><i>Transforming raw data into meaningful insights and informed decisions.</i></p>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" bgcolor="#DCE9FA">
-<h3>🗄️ Databases & Data Management</h3>
-<p>SQL · MySQL · Data Querying · Data Manipulation · Database Fundamentals</p>
-<p><i>Learning to organize, retrieve, and manage structured information.</i></p>
-</td>
-<td width="50%" align="center" bgcolor="#E8DDF8">
-<h3>🌐 Application Development</h3>
-<p>Streamlit · Flask · HTML · CSS · API Fundamentals</p>
-<p><i>Exploring ways to turn technical ideas and models into usable applications.</i></p>
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Technology Stack
+## 🛠️ Tech Stack & Tools
 
 ### Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/Python-DCE9FA?style=for-the-badge&logo=python&logoColor=6586B5" />
-<img src="https://img.shields.io/badge/Java-E8DDF8?style=for-the-badge&logo=openjdk&logoColor=8275AD" />
-<img src="https://img.shields.io/badge/C-DDF0E5?style=for-the-badge&logo=c&logoColor=649A83" />
-<img src="https://img.shields.io/badge/SQL-F4DCEB?style=for-the-badge&logo=mysql&logoColor=9B668C" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### Data Science & Data Analysis
+### Data Science & Data Analytics
 
 <p>
-<img src="https://img.shields.io/badge/Pandas-DCE9FA?style=for-the-badge&logo=pandas&logoColor=6586B5" />
-<img src="https://img.shields.io/badge/NumPy-E8DDF8?style=for-the-badge&logo=numpy&logoColor=8275AD" />
-<img src="https://img.shields.io/badge/Matplotlib-F4DCEB?style=for-the-badge&logo=plotly&logoColor=9B668C" />
-<img src="https://img.shields.io/badge/Excel-DDF0E5?style=for-the-badge&logo=microsoftexcel&logoColor=649A83" />
-<img src="https://img.shields.io/badge/Power%20BI-DCE9FA?style=for-the-badge&logo=powerbi&logoColor=6586B5" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ### Artificial Intelligence & Machine Learning
 
 <p>
-<img src="https://img.shields.io/badge/Scikit--learn-E8DDF8?style=for-the-badge&logo=scikitlearn&logoColor=8275AD" />
-<img src="https://img.shields.io/badge/TensorFlow-F4DCEB?style=for-the-badge&logo=tensorflow&logoColor=9B668C" />
-<img src="https://img.shields.io/badge/Keras-DDF0E5?style=for-the-badge&logo=keras&logoColor=649A83" />
-<img src="https://img.shields.io/badge/Deep%20Learning-DCE9FA?style=for-the-badge&logo=pytorch&logoColor=6586B5" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
 </p>
 
-### Web & Application Development
+### Development & Tools
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-DCE9FA?style=for-the-badge&logo=html5&logoColor=6586B5" />
-<img src="https://img.shields.io/badge/CSS3-E8DDF8?style=for-the-badge&logo=css3&logoColor=8275AD" />
-<img src="https://img.shields.io/badge/Streamlit-F4DCEB?style=for-the-badge&logo=streamlit&logoColor=9B668C" />
-<img src="https://img.shields.io/badge/Flask-DDF0E5?style=for-the-badge&logo=flask&logoColor=649A83" />
-</p>
-
-### Developer Tools & Platforms
-
-<p>
-<img src="https://img.shields.io/badge/VS%20Code-DCE9FA?style=for-the-badge&logo=visualstudiocode&logoColor=6586B5" />
-<img src="https://img.shields.io/badge/Jupyter-E8DDF8?style=for-the-badge&logo=jupyter&logoColor=8275AD" />
-<img src="https://img.shields.io/badge/Git-F4DCEB?style=for-the-badge&logo=git&logoColor=9B668C" />
-<img src="https://img.shields.io/badge/GitHub-DDF0E5?style=for-the-badge&logo=github&logoColor=649A83" />
-<img src="https://img.shields.io/badge/Canva-DCE9FA?style=for-the-badge&logo=canva&logoColor=6586B5" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ---
 
-## 🔬 Exploring AI, ML & Data Science
-
-My interests extend beyond writing code. I'm interested in understanding the complete process of developing data-driven and intelligent solutions.
-
-| Area | Concepts I'm Exploring |
-|---|---|
-| Data Analysis | Data cleaning, EDA, data transformation, visualization |
-| Statistics | Descriptive statistics, probability, correlation, hypothesis testing |
-| Data Science | Feature engineering, data preparation, analytical workflows |
-| Machine Learning | Regression, classification, clustering, model evaluation |
-| Deep Learning | Neural networks, CNNs, image classification |
-| AI Applications | Intelligent systems, automation, practical AI applications |
-| Model Development | Training, validation, testing, performance evaluation |
-| Data Visualization | Charts, dashboards, analytical storytelling |
-| Databases | SQL queries, joins, aggregation, data management |
-
----
-
-## 💗 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%" bgcolor="#F4DCEB">
-<h3>🦴 Knee Osteoarthritis Detection</h3>
+<td width="50%" valign="top">
 
-A deep-learning project exploring the classification of knee X-ray images for osteoarthritis detection and severity grading.
+### 🦵 Knee Osteoarthritis Detection Using CNN
 
-**Key Focus**
-- Image preprocessing and dataset preparation.
-- Convolutional Neural Networks.
-- Image classification.
-- Model training and validation.
-- Performance evaluation.
+An AI-based project exploring the classification of knee osteoarthritis severity using knee X-ray images.
 
-**Technologies:** Python, TensorFlow, CNN, Flask.
+**Focus areas:**
+- Image preprocessing
+- Convolutional Neural Networks
+- Image classification
+- Deep Learning
+- Model evaluation
 
-<a href="https://github.com/rifasanzidazaman/knee-osteoarthritis-detection">
-<img src="https://img.shields.io/badge/View%20Project-DCE9FA?style=for-the-badge&logo=github&logoColor=6586B5"/>
-</a>
+**Technologies:** Python, CNN, TensorFlow
+
 </td>
 
-<td width="50%" bgcolor="#DDF0E5">
-<h3>📈 Customer Revenue Intelligence</h3>
+<td width="50%" valign="top">
 
-A data analytics project focused on customer purchasing behaviour, segmentation, and revenue insights using retail transaction data.
+### 📊 Customer Revenue Intelligence
 
-**Key Focus**
-- Data cleaning and exploratory analysis.
-- RFM-based customer segmentation.
-- Customer behaviour analysis.
-- Revenue pattern identification.
-- Machine learning classification.
+A data analytics and machine learning project focused on understanding customer behaviour and revenue patterns.
 
-**Technologies:** Python, Pandas, Scikit-learn, Streamlit.
+**Focus areas:**
+- Customer segmentation
+- RFM analysis
+- Exploratory Data Analysis
+- Revenue insights
+- Random Forest classification
+- Data visualization
 
-<a href="https://github.com/rifasanzidazaman">
-<img src="https://img.shields.io/badge/View%20GitHub-E8DDF8?style=for-the-badge&logo=github&logoColor=8275AD"/>
-</a>
+**Technologies:** Python, Pandas, Scikit-learn, Streamlit
+
 </td>
 </tr>
 </table>
 
 ---
 
-## ✈️ Industrial & Practical Experience
+## 🏢 Industrial Training & Experience
 
-### Adani Airport Holdings – Industrial Training
+### Adani Airport Holdings – Guwahati International Airport
 
-**Guwahati International Airport | IT Department**
+**IT Department | May–June 2026**
 
-- Exposure to IT infrastructure and network operations.
-- Familiarity with ServiceNow ticketing and issue management.
-- Observed digital airport systems and operational workflows.
-- Exposure to e-gates, baggage handling systems, CCTV, and passenger-facing technology.
-- Understanding of the role of IT infrastructure in airport operations.
+Gained practical exposure to airport IT infrastructure and operational technology.
 
-### Digitalising Fish Farming – FIRMS
-
-**Sootea Farmer Producer Company Ltd.**
-
-- Explored the Farmer Institution Real-Time Monitoring System.
-- Learned about technology-enabled agricultural monitoring.
-- Studied digital solutions for farmer institutions and operational visibility.
-- Developed an understanding of technology applications in the agricultural sector.
+- Observed IT infrastructure and network operations.
+- Worked with ServiceNow ticketing workflows.
+- Gained exposure to airport systems, including e-gates, EDS, e-post, self-service systems, DAS, BHS, and CCTV.
+- Learned about IT support processes and technology-enabled airport operations.
 
 ---
 
-## 🎯 Current Learning Roadmap
+## 📚 Currently Exploring
+
+- Artificial Intelligence and its real-world applications.
+- Machine Learning algorithms and model development.
+- Deep Learning and Convolutional Neural Networks.
+- Data Science workflows and statistical foundations.
+- Data Analytics and business intelligence.
+- Python programming and problem-solving.
+- Software development fundamentals.
+
+---
+
+## 📈 GitHub Overview
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" bgcolor="#DCE9FA" width="25%">
-<h3>01</h3>
-<b>Programming</b>
-<p>Python, Java, C, SQL</p>
-</td>
-<td align="center" bgcolor="#E8DDF8" width="25%">
-<h3>02</h3>
-<b>Data Foundations</b>
-<p>Statistics, Pandas, NumPy, EDA</p>
-</td>
-<td align="center" bgcolor="#F4DCEB" width="25%">
-<h3>03</h3>
-<b>AI & ML</b>
-<p>Algorithms, models, CNNs</p>
-</td>
-<td align="center" bgcolor="#DDF0E5" width="25%">
-<h3>04</h3>
-<b>Projects</b>
-<p>Applications, experiments, deployment</p>
-</td>
-</tr>
-</table>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rifasanzidazaman&show_icons=true&hide_border=true&bg_color=F8F4FC&title_color=8275AD&icon_color=9B668C&text_color=55516B&rank_icon=github" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifasanzidazaman&layout=compact&hide_border=true&bg_color=F8F4FC&title_color=8275AD&text_color=55516B" />
 
 </div>
 
 ---
 
-## 📊 GitHub Overview
+## 🔥 Contribution Streak
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rifasanzidazaman&show_icons=true&hide_border=true&bg_color=DCE9FA&title_color=6586B5&text_color=8275AD&icon_color=9B668C&ring_color=649A83" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifasanzidazaman&layout=compact&hide_border=true&bg_color=E8DDF8&title_color=8275AD&text_color=9B668C" />
+<img src="https://streak-stats.demolab.com?user=rifasanzidazaman&hide_border=true&background=F8F4FC&ring=9B83C4&fire=E69AB8&currStreakLabel=8275AD&sideLabels=8275AD&currStreakNum=9B668C&sideNums=9B668C&dates=9B91AA&stroke=E8DDF8&border_radius=20" width="90%" />
 
 <br/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=rifasanzidazaman&hide_border=true&background=F4DCEB&ring=9B668C&fire=8275AD&currStreakLabel=8275AD&sideLabels=9B668C&currStreakNum=8275AD&sideNums=9B668C&dates=9B668C" />
-
-<br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=rifasanzidazaman&bg_color=DDF0E5&color=649A83&line=8275AD&point=9B668C&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rifasanzidazaman&bg_color=F8F4FC&color=8275AD&line=B49BD8&point=E69AB8&area=true&hide_border=true" width="95%" />
 
 </div>
 
@@ -300,56 +241,39 @@ A data analytics project focused on customer purchasing behaviour, segmentation,
 
 ## 🌸 Beyond Technology
 
-<table>
-<tr>
-<td width="50%" bgcolor="#DCE9FA" align="center">
-<h3>📚 Reading</h3>
-<p>Psychology, fiction, personal development, and thought-provoking ideas.</p>
-</td>
-<td width="50%" bgcolor="#E8DDF8" align="center">
-<h3>✍️ Writing</h3>
-<p>Exploring ideas, perspectives, creativity, and self-reflection.</p>
-</td>
-</tr>
-<tr>
-<td width="50%" bgcolor="#F4DCEB" align="center">
-<h3>🌱 Personal Growth</h3>
-<p>Building discipline, learning new skills, and embracing continuous improvement.</p>
-</td>
-<td width="50%" bgcolor="#DDF0E5" align="center">
-<h3>🌍 Innovation</h3>
-<p>Interested in technology, business, emerging ideas, and meaningful solutions.</p>
-</td>
-</tr>
-</table>
+Outside academics and coding, I enjoy:
+
+- 📖 Reading fiction and psychology books.
+- ✍️ Writing and reflecting on ideas.
+- 📷 Photography and creative projects.
+- 🌱 Learning new things and building better habits.
 
 ---
 
-## 🤝 Let's Connect
+## 💌 Let's Connect
 
 <div align="center">
 
-<p>Always open to connecting with people who enjoy technology, learning, innovation, and building meaningful projects.</p>
-
 <a href="https://github.com/rifasanzidazaman">
-<img src="https://img.shields.io/badge/GitHub-DCE9FA?style=for-the-badge&logo=github&logoColor=6586B5" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/rifasanzidazaman">
-<img src="https://img.shields.io/badge/LinkedIn-E8DDF8?style=for-the-badge&logo=linkedin&logoColor=8275AD" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://instagram.com/thesanzida">
-<img src="https://img.shields.io/badge/Instagram-F4DCEB?style=for-the-badge&logo=instagram&logoColor=9B668C" />
+
+<a href="https://www.instagram.com/thesanzida/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+
 <a href="mailto:sanzidarifazaman@gmail.com">
-<img src="https://img.shields.io/badge/Email-DDF0E5?style=for-the-badge&logo=gmail&logoColor=649A83" />
+<img src="https://img.shields.io/badge/Email-DCE9FA?style=for-the-badge&logo=gmail&logoColor=8275AD" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:DCE9FA,50:E8DDF8,100:F4DCEB" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DCE9FA,50:E8DDF8,100:F4DCEB&height=110&section=footer" width="100%" />
 
-### *learning a little, building a little, growing every day* 🌷
-
-<sub>Curiosity in mind. Creativity in progress. Growth in every step.</sub>
+**learning • building • becoming**
 
 </div>
