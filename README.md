@@ -1,30 +1,88 @@
-# 💫 About Me:
-🔭 I am currently building my foundation in **Java, Data Structures & Algorithms, and Data Analysis**.  
-🤝 Open to collaborating on **beginner-friendly projects and open-source contributions**.  
-🆘 I need help improving my **problem-solving skills and understanding real-world data analysis**.  
-🌱 Currently learning **Core Java, DSA, SQL, Python, Excel, and Power BI**.  
-💬 Ask me about **Java basics, simple SQL queries, and beginner DSA problems**.  
-⚡ Fun fact: I believe in learning step-by-step and improving a little every day 🚀  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thesanzida)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanzidarifazaman@gmail.com)
+<div align="center">
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=Rifa%20Sanzida%20Zaman&fontSize=42&fontColor=C9D1D9&fontAlignY=45&desc=learn%20%20%E2%80%A2%20%20build%20%20%E2%80%A2%20%20grow&descSize=15&descAlignY=70&animation=fadeIn" width="100%"/>
 
-# 📊 GitHub Statistics:
+<br/>
 
-## ⭐ GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rifasanzidazaman&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+**Aspiring Software Developer · Data Analysis Enthusiast**
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://nirzak-streak-stats.herokuapp.com/?user=rifasanzidazaman&theme=dark&hide_border=false)
+*Building a little more knowledge, one day at a time.*
 
-## 💡 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rifasanzidazaman&theme=dark&hide_border=false&layout=compact)
+<br/>
+
+<a href="https://instagram.com/thesanzida">
+<img src="https://img.shields.io/badge/Instagram-161B22?style=flat-square&logo=instagram&logoColor=C9A7EB"/>
+</a>
+<a href="https://linkedin.com/in/">
+<img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=8DA9C4"/>
+</a>
+<a href="mailto:sanzidarifazaman@gmail.com">
+<img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=C9D1D9"/>
+</a>
+
+</div>
+
+---
+
+### 𓂃 About Me
+
+```text
+Currently       Java · Python · DSA · Data Analysis
+Exploring       Software Development & AI
+Interested in   Real-world projects & open source
+Learning        Step by step, every day
+```
+
+- Building a strong foundation in **Java, Data Structures & Algorithms, and Data Analysis**
+- Exploring practical applications of programming and data-driven solutions
+- Open to collaborating on beginner-friendly projects and open-source contributions
+- Always curious, always learning
+
+---
+
+### 𓂃 Languages & Tools
+
+<div align="center">
+
+<a href="https://www.java.com/">
+<img src="https://img.shields.io/badge/Java-161B22?style=for-the-badge&logo=openjdk&logoColor=E8A06A"/>
+</a>
+<a href="https://www.python.org/">
+<img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=8DA9C4"/>
+</a>
+<a href="https://www.mysql.com/">
+<img src="https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=8DA9C4"/>
+</a>
+<a href="https://en.cppreference.com/w/c">
+<img src="https://img.shields.io/badge/C-161B22?style=for-the-badge&logo=c&logoColor=C9A7EB"/>
+</a>
+<a href="https://www.canva.com/">
+<img src="https://img.shields.io/badge/Canva-161B22?style=for-the-badge&logo=canva&logoColor=8DA9C4"/>
+</a>
+
+</div>
+
+---
+
+### 𓂃 GitHub Overview
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rifasanzidazaman&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9A7EB&icon_color=8DA9C4&text_color=C9D1D9"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rifasanzidazaman&hide_border=true&background=0D1117&ring=C9A7EB&fire=E8A06A&currStreakLabel=C9A7EB&sideLabels=C9D1D9&dates=8B949E"/>
+
+<br/><br/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifasanzidazaman&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9A7EB&text_color=C9D1D9"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=80&section=footer&text=keep%20creating%20%E2%9C%A6%20keep%20growing&fontSize=15&fontColor=8DA9C4" width="100%"/>
+
+</div>
