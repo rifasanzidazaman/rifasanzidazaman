@@ -170,7 +170,7 @@ I'm building my technical foundation step by step, learning how to turn concepts
 <a href="https://github.com/rifasanzidazaman">
   <img src="https://img.shields.io/badge/GitHub-DCE9FA?style=for-the-badge&logo=github&logoColor=6586B5" />
 </a>
-<a href="https://www.linkedin.com/in/">
+<a href="https://www.linkedin.com/in/rifasanzidazaman">
   <img src="https://img.shields.io/badge/LinkedIn-E8DDF8?style=for-the-badge&logo=linkedin&logoColor=8275AD" />
 </a>
 <a href="https://instagram.com/thesanzida">
